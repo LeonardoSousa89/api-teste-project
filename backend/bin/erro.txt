@@ -1,0 +1,7 @@
+erro1:
+https://www.google.com/search?client=opera&q=erro%3A+You+must+provide+<repository>+<ref>&sourceid=opera&ie=UTF-8&oe=UTF-8
+
+
+
+erro2:
+https://www.google.com/search?q=git+push+using%3A++subtree_origin+main+fatal%3A+%27subtree_origin%27+does+not+appear+to+be+a+git+repository+fatal%3A+Could+not+read+from+remote+repository.++Please+make+sure+you+have+the+correct+access+rights+and+the+repository+exists.&client=opera&hs=lpX&sxsrf=ALeKk0231X0HrcwAAQSo5S-kvtYaDiY04g%3A1617012749807&ei=DahhYLjsMMPM5OUPtMij8A0&oq=git+push+using%3A++subtree_origin+main+fatal%3A+%27subtree_origin%27+does+not+appear+to+be+a+git+repository+fatal%3A+Could+not+read+from+remote+repository.++Please+make+sure+you+have+the+correct+access+rights+and+the+repository+exists.&gs_lcp=Cgdnd3Mtd2l6EANQ5pIMWOaSDGCgmQxoAHACeACAAewEiAHsBJIBAzUtMZgBAKABAqABAaoBB2d3cy13aXrAAQE&sclient=gws-wiz&ved=0ahUKEwj4prL0odXvAhVDJrkGHTTkCN4Q4dUDCAw&uact=5

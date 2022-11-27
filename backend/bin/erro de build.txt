@@ -1,0 +1,47 @@
+		erro de build no heroku:
+
+
+remote:        [INFO] Downloading from central: 
+remote:        [INFO] Changes detected - recompiling the module!
+remote:        [INFO] Compiling 6 source files to /tmp/build_cee40742/target/classes
+remote:        [INFO] ------------------------------------------------------------------------
+remote:        [INFO] BUILD FAILURE
+remote:        [INFO] ------------------------------------------------------------------------
+remote:        [INFO] Total time:  13.738 s
+remote:        [INFO] Finished at: 2021-03-29T10:37:49Z
+remote:        [INFO] ------------------------------------------------------------------------
+remote:        [ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.8.1:compile (default-compile) on project application: Fatal error compiling: invalid target release: 11 -> [Help 1]
+remote:        [ERROR]
+remote:        [ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+remote:        [ERROR] Re-run Maven using the -X switch to enable full debug logging.
+remote:        [ERROR]
+remote:        [ERROR] For more information about the errors and possible solutions, please read the following articles:
+remote:        [ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
+remote:
+remote:  !     ERROR: Failed to build app with Maven
+remote:        We're sorry this build is failing! If you can't find the issue in application code,
+remote:        please submit a ticket so we can help: https://help.heroku.com/
+remote:
+remote:  !     Push rejected, failed to compile Java app.
+remote:
+remote:  !     Push failed
+remote:  !
+remote:  ! ## Warning - The same version of this code has already been built: 8355b2751390bcedde4d25b689160dc3179ccc58
+remote:  !
+remote:  ! We have detected that you have triggered a build from source code with version 8355b2751390bcedde4d25b689160dc3179ccc58
+remote:  ! at least twice. One common cause of this behavior is attempting to deploy code from a different branch.
+remote:  !
+remote:  ! If you are developing on a branch and deploying via git you must run:
+remote:  !
+remote:  !     git push heroku <branchname>:main
+remote:  !
+remote:  ! This article goes into details on the behavior:
+remote:  !   https://devcenter.heroku.com/articles/duplicate-build-version
+remote:
+remote: Verifying deploy...
+remote:
+remote: !       Push rejected to api-teste-deploy.
+remote:
+To https://git.heroku.com/api-teste-deploy.git
+ ! [remote rejected] 8355b2751390bcedde4d25b689160dc3179ccc58 -> main (pre-receive hook declined)
+error: failed to push some refs to 'https://git.heroku.com/api-teste-deploy.git'

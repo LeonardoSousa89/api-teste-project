@@ -1,0 +1,10 @@
+INSERT INTO products VALUES(null, 012554, 'café maratá 200g - vácuo', 2.25,'29/09/2022');
+INSERT INTO products VALUES(null, 012544, 'achocolatado maratá 200ml', 1.27,'03/05/2021');
+INSERT INTO products VALUES(null, 012334, 'pão limiar integral fatia', 3.97,'01/04/2021');
+INSERT INTO products VALUES(null, 010244, 'lite betânia 1l integral', 4.25,'29/04/2021');
+INSERT INTO products VALUES(null, 019984, 'açúcar demerara 500g', 0.97,'03/05/2025');
+INSERT INTO products VALUES(null, 017744, 'leite condensado moça - tp 200ml', 5.63,'29/07/2021');
+INSERT INTO products VALUES(null, 012304, 'leite em pó ideal 200ml', 4.37,'29/09/2021');
+INSERT INTO products VALUES(null, 013354, 'leite em pó ninho 500ml - lt', 22.67,'22/12/2021');
+INSERT INTO products VALUES(null, 012336, 'energético megaton 2l', 4.92,'29/12/2021');
+INSERT INTO products VALUES(null, 012000, 'refrigerante coca-cola 2l', 5.27,'29/06/2021');

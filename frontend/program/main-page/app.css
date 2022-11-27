@@ -1,0 +1,36 @@
+body,html{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+
+    overflow: hidden;
+}
+header{
+    grid-area: header;
+}
+main{
+    grid-area: main;
+    background-image: url('../assets/carrinho.jpg');
+    background-size: 100% 100%;
+}
+footer{
+    grid-area: footer;
+    background-color: rgba(0,0,0,0.1);
+
+    font-size: x-small;
+
+    display: flex;
+    align-items: flex-end;
+
+    font-weight: bold;
+}
+body{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 300px 1fr 30px;
+    grid-template-areas: 
+        'header header'
+        'main     main'
+        'footer footer'
+    ;
+}

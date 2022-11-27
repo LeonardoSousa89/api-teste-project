@@ -1,0 +1,63 @@
+
+[
+	{
+		"cod":81000,
+		"name":"refrigerante coca-cola 2l",
+		"validade":"29/06/2021",
+		"price":5.27
+	},
+	{
+		"cod":21336,
+		"name":"energético megaton 2l",
+		"validade":"29/12/2021",
+		"price":4.92
+	},
+	{
+		"cod":41254,
+		"name":"café maratá 200g - vácuo",
+		"validade":"29/09/2022",
+		"price":2.25 
+	},
+	{
+		"cod":81244,
+		"name":"achocolatado maratá 200ml",
+		"validade":"03/05/2021",
+		"price":1.27 
+	},
+	{
+		"cod":51234,
+		"name":"pão limiar integral fatia",
+		"validade":"01/04/2021",
+		"price":3.97
+	},
+	{
+		"cod":90244,
+		"name":"lite betânia 1l integral",
+		"validade":"29/04/2021",
+		"price":4.25
+	},
+	{
+		"cod":81984,
+		"name":"açúcar demerara 500g",
+		"validade":"03/05/2025",
+		"price":5.63
+	},
+	{
+		"cod":51744,
+		"name":"leite condensado moça - tp 200ml",
+		"validade":"29/07/2021",
+		"price":0.97
+	},
+	{
+		"cod":11204,
+		"name":"leite em pó ideal 200ml",
+		"validade":"29/09/2021",
+		"price":4.37
+	},
+		{
+		"cod":11354,
+		"name":"leite em pó ninho 500ml - lt",
+		"validade":"22/12/2021",
+		"price":22.67
+	}
+]
